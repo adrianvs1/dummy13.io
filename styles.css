@@ -46,7 +46,8 @@ header p {
     max-width: 200px; /* Tamaño grande del logo */
     height: auto;
 }
-.todos {
+
+.todos-title {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -57,18 +58,7 @@ header p {
     max-width: 200px; /* Tamaño grande del logo */
     height: auto;
 }
-.todos {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 2rem; /* Espaciado entre el logo y el título */
-}
-
-.todos {
-    max-width: 200px; /* Tamaño grande del logo */
-    height: auto;
-}
-.armas {
+.armas-title {
     display: flex;
     align-items: center;
     justify-content: center;
