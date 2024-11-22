@@ -55,7 +55,7 @@ header p {
 }
 
 .todos {
-    max-width: 200px; /* Tamaño grande del logo */
+    max-width: 400px; /* Tamaño grande del logo */
     height: auto;
 }
 .armas-title {
@@ -66,7 +66,7 @@ header p {
 }
 
 .armas {
-    max-width: 200px; /* Tamaño grande del logo */
+    max-width: 400px; /* Tamaño grande del logo */
     height: auto;
 }
 section {
